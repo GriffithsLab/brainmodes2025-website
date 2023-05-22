@@ -6,25 +6,27 @@ draft = false
 
 {{< figure class="image main" src="images/cognitive_network_modelling.jpg" >}}
 
-## Project Week 2022
+## Project Week 2023
 
-**Course Format:** The course will take place over 5 weeks, from June to early July,  in two parts:   
- - **Part 1:** Four weeks of flexible, self-directed online learning (materials provided for free) culminating in a series of live virtual Q & A sessions with course instructors.  
- - **Part 2:** One In-person project week, with limited enrollment, guided by KCNI staff and teaching assistants.  
+**When** July 10-14, 2023
 
-**Dates and Times:**  
- - **Self-directed online learning:** Throughout June 2022 (TBA). Open to all (online).  
- - **In-person Project Week:** July 4 to 8, 2022, from 9 am to 5 pm daily. Only 30 spots available.  
+**Intended Audience**: Graduate Students, Post-Graduate Research and Clinical Fellows, as well as Early-Career Scientists with interest in learning more about Neuroinformatics
 
-**Registration Cost:** free for both online learning and in-person project week.*  
+**Where**: In-person at the Krembil Centre for Neuroinformatics, 12th Floor, 250 College Street, Toronto, Canada
 
-* *For in-person project week, costs for travel and local accommodation (Toronto, Canada) are not provided.* 
+**Cost**:  Minimal ($50), only 30 spots available
+*costs for travel and local accommodation (Toronto, Canada) are not provided.* 
 
-## Delivery Format
+## [Click here to apply!](https://edc.camhx.ca/redcap/surveys/?s=93TWAP7HMXAFANEC)
 
-Students will be provided with a collection of virtual didactic teaching (lectures) and hands-on tutorial components to engage critical thinking and develop practical skills in crucial selected areas. Lessons will be led by members and affiliates of the KCNI team, including faculty at the University of Toronto’s Department of Psychiatry.  
+Application Deadline June 2, 2023
+Those selected to participate will be contacted in mid-June to register. 
 
-Successful applications to Project Week will be mentored (in-person or hybrid) by KCNI Scientists as they complete one-week intensive group projects matched to their interests. These projects will allow participants to build mastery in selected integrative research methods. All project week participants will take part in each full day of training. Students will have the opportunity for project-specific discussions, collaboration, and guidance outside of structured time. Students will present their group project to KCNI Scientists at the conclusion of Project Week. Project week will occur in person at CAMH KCNI and be supplemented by multiple networking, collaboration, and socializing opportunities.
+## For more information
+
+More information on project week projects and activities is given at (https://kcniconfluence.camh.ca/display/ED/KCNI+Summer+Academy+2023+Project+Week).
+
+## Previous years
 
 More information on 2022 Project Week is posted to [our confluence page](https://kcniconfluence.camh.ca/display/ED/KCNI+School+2022+Project+Week).
 
