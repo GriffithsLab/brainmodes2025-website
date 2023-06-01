@@ -12,7 +12,7 @@ Applications for participantion in project week (July 10-14, 2023) is now open
 
 [**Click here to apply!**](https://edc.camhx.ca/redcap/surveys/?s=93TWAP7HMXAFANEC)
 
-Application Deadline: June 2, 2023
+Application Deadline: June 9, 2023
 
 We will be contacting those selected to attend the summer school with an invitation to register (at a minical cost of $50). This year, we intend our project week will be offered **in-person**, at the Krembil Centre for Neuroinformatics in the Centre for Addiction and Mental Health (250 College Street) Toronto, Canada.
 
