@@ -19,7 +19,7 @@ draft = false
 
 ## [Click here to apply!](https://edc.camhx.ca/redcap/surveys/?s=93TWAP7HMXAFANEC)
 
-Application Deadline June 2, 2023
+Application Deadline has been extended to June 9, 2023. 
 Those selected to participate will be contacted in mid-June to register. 
 
 ## For more information
