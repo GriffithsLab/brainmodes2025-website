@@ -17,9 +17,9 @@
                     <div class="content">
                         <div class="inner">
                             <h1>{{ .Title | default "Title" }}</h1>
-                            {{ if .Params.description }}
+                            {{ with .Params.description }}
                             <p>
-                                {{ .Params.description }}
+                                {{ . | markdownify }}
                             </p>
                             {{ end }}
                         </div>
