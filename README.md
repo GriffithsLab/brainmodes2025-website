@@ -22,6 +22,21 @@ In general however, best to work on a local clone.
 
 Github codespaces works very well for this. 
 
+### Github Codespaces 
+
+- Fork this repo
+- Create a codespace on it
+- Make a git branch for current edits
+- To test review the build after making some changes:
+  ```bash
+  hugo --minify
+  cd public
+  python -m http.server
+  ```
+- when you're satisfied, commit and pull request on your branch
+
+
+
 ### Structure: 
 
 - Landing page and title are specified in config.toml
