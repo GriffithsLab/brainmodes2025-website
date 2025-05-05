@@ -1,11 +1,13 @@
 ---
-title: "BrainModes Conference 2025"
+title: "BrainModes 2025"
+title_lines:
+  - "BrainModes 2025"
+  -   
+  - "8-10 October"
+  - "Toronto, Canada"
 description: |  
-
-  An international meeting on theoretical neuroscience and macro-scale brain organization.  
-
-  **8-10 October - Toronto, Canada**    
+  ***An international meeting on theoretical neuroscience and macro-scale brain organization.*** 
     
-  [Registration & Abstract Submission Open!](https//griffithslab.github.io/BrainModes2025)  
+  **[Registration & Abstract Submission Open!](https//griffithslab.github.io/BrainModes2025)**  
    
 ---
