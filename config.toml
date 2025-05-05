@@ -1,5 +1,5 @@
-baseurl = "https://krembilneuroinformatics.github.io/kcnischool.org"
-title = "KCNI Summer School 2021"
+baseurl = "https://griffithslab.github.io/BrainModes2025"
+title = "BrainModes 2025"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
