@@ -76,7 +76,7 @@ Info coming soon...
     <div class="speaker">
       <img src="images/AxelHutt.jpg" alt="Speaker 3">
       <div class="speaker-name">Axel Hutt</div>
-      <div class="speaker-title">Jena</div>
+      <div class="speaker-title">INRIA</div>
     </div>
     <div class="speaker">
       <img src="images/SteveCoombes.jpg" alt="Speaker 3">
@@ -86,7 +86,7 @@ Info coming soon...
     <div class="speaker">
       <img src="images/ChrisMathys.jpg" alt="Speaker 3">
       <div class="speaker-name">Chris Mathys</div>
-      <div class="speaker-title">Zurich, WHO</div>
+      <div class="speaker-title">Aarhus University</div>
     </div>
   </div>
 </body>
