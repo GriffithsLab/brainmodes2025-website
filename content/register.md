@@ -4,15 +4,22 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" src="images/computational_genomics.jpg" >}}
 
-Info coming soon!
+## Conference Registration
+
+Follow the link on the [Fields webpage](http://www.fields.utoronto.ca/activities/25-26/BrainModes) to register. 
+
+Registration is heavily subsidized for trainees.
+
+***Rates:***
+
+Student / PostDoc: $50
+Non-Student:       $250
 
 
+## Accomodation: 
 
+Discounted room rates at the Chelsea Hotel are available for conference attendees.
 
-
-
-
-
+To access these, follow the booking instructions [here](). 
 

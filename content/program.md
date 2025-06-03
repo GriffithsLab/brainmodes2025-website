@@ -4,91 +4,39 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" src="images/computational_genomics.jpg" >}}
+## Keynote Speakers
 
-Info coming soon...
-
-
-{{< figure class="image main" src="images/computational_genomics.jpg" >}}
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Conference Speakers</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 20px;
-    }
-
-    .speaker {
-      text-align: center;
-      border: 1px solid #ddd;
-      padding: 10px;
-      border-radius: 8px;
-      transition: box-shadow 0.3s;
-    }
-
-    .speaker:hover {
-      box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    }
-
-    .speaker img {
-      width: 100%;
-      height: auto;
-      border-radius: 50%;
-      max-width: 150px;
-    }
-
-    .speaker-name {
-      font-size: 1.1em;
-      margin-top: 10px;
-      font-weight: bold;
-    }
-
-    .speaker-title {
-      font-size: 0.9em;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Meet the Speakers</h1>
-
-  <div class="gallery">
-   <div class="speaker">
-        <img src="images/JoanaCabral.jpg" alt="Speaker 1">
-        <div class="speaker-name">Joana Cabral</div>
-      <div class="speaker-title">University of Lisbon</div>
-    </div>
-    <div class="speaker">
-      <img src="images/KarlFriston.jpg" alt="Speaker 2">
-      <div class="speaker-name">Karl Friston/div>
-      <div class="speaker-title">University College London</div>
-    </div>
-    <div class="speaker">
-      <img src="images/AxelHutt.jpg" alt="Speaker 3">
-      <div class="speaker-name">Axel Hutt </div>
-      <div class="speaker-title">Jena</div>
-    </div>
-    <div class="speaker">
-      <img src="images/SteveCoombes.jpg" alt="Speaker 3">
-      <div class="speaker-name">Dr. Steve Coombes</div>
-      <div class="speaker-title">Nottingham University</div>
-    </div>
-    <div class="speaker">
-      <img src="images/ChrisMathys.jpg" alt="Speaker 3">
-      <div class="speaker-name">Chris Mathys/div>
-      <div class="speaker-title">Zurich, WHO</div>
-    </div>
+<div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/JoanaCabral.jpg" alt="Joana Cabral" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Joana Cabral</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Lisbon<br><span style="color: #888;">Example Corp</span></p>
   </div>
-</body>
-</html>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/KarlFriston.jpg" alt="Karl Friston" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Karl Friston</h3>
+    <p style="margin: 0; font-size: 1rem;">University College London<br><span style="color: #888;">Tech Inc</span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/AxelHutt.jpg" alt="Axel Hutt" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Axel Hutt</h3>
+    <p style="margin: 0; font-size: 1rem;">INRIA<br><span style="color: #888;">Tech Inc</span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/StephenCoombes.png" alt="Stephen Coombes" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Stephen Coombes</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Nottingham<br><span style="color: #888;">Tech Inc</span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/ChrisMathys.jpg" alt="Christoph Mathys" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Christoph Mathys</h3>
+    <p style="margin: 0; font-size: 1rem;">Aarhus University<br><span style="color: #888;">Tech Inc</span></p>
+  </div>
+  <!-- Add more speaker cards as needed -->
+</div>
+
+
+## Full Program
+
+Coming soon!
 
