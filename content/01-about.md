@@ -61,6 +61,9 @@ Fields Institute
 </iframe>
 
 
+{{< youtube PSwotpKljng >}}
+
+
 The Fields Institute is located on the South-West corner of the picturesque University of Toronto St George campus, in the downtown heart of Canada's largest and most vibrant city. 
 
 {{< figure class="image main" src="images/UofT.jpg" >}}
