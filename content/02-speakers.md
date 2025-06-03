@@ -79,7 +79,7 @@ Info coming soon...
       <div class="speaker-title">INRIA</div>
     </div>
     <div class="speaker">
-      <img src="images/SteveCoombes.jpg" alt="Speaker 3">
+      <img src="images/StephenCoombes.jpg" alt="Speaker 3">
       <div class="speaker-name">Stephen Coombes</div>
       <div class="speaker-title">Nottingham University</div>
     </div>
