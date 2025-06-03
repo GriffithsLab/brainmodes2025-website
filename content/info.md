@@ -44,7 +44,7 @@ Also, right next door is the ***Krembil Centre for Neuroinformatics (KCNI) at th
     alt="KCNI"
     caption=""
     title="CAMH KCNI"
-    class="wrap-right"
+    class="image main"
 >}}
 
 
