@@ -50,15 +50,9 @@ The ***venue*** this year is **Toronto, Canada**, at the [Fields Institute for M
 
 
 {{< figure class="image main" src="images/FieldsInstitute.jpg" >}}
-Fields Institute
+<div align='center'>Fields Institute</div>
 
-<iframe width="560" height="315" 
-          src="https://www.youtube.com/embed/PSwotpKljng" 
-          title="YouTube video player" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-          allowfullscreen>
-</iframe>
+
 
 
 {{< youtube PSwotpKljng >}}
@@ -67,11 +61,11 @@ Fields Institute
 The Fields Institute is located on the South-West corner of the picturesque University of Toronto St George campus, in the downtown heart of Canada's largest and most vibrant city. 
 
 {{< figure class="image main" src="images/UofT.jpg" >}}
-University of Toronto
+<div align='center'>University of Toronto</div>
 
 
 Right next door to Fields is the Krembil Centre for Neuroinformatics (KCNI) at the Centre for Addiction and Mental Health (CAMH) College Street site. KCNI Scientists Drs. John Griffiths and Andreea Diaconescu are leading the BrainModes organizing committee, and look forward to hosting visitors at Fields, KCNI, and Toronto more generally. 
 
 {{< figure class="image main" src="images/CAMHKCNI.jpg" >}}
-CAMH Krembil Centre for Neuroinformatics  
+<div align='center'>CAMH KCNI</div>
 
