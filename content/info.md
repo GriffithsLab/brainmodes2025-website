@@ -18,7 +18,7 @@ See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information a
 ## Venue
 
 {{< figure
-    src="/images/FieldsInstitute.jpg"
+    src="images/FieldsInstitute.jpg"
     alt="Fields"
     caption=""
     title="Fields Institute Atrium"
@@ -30,7 +30,7 @@ The ***venue*** this year is **Toronto, Canada**, at the [Fields Institute for M
 The Fields Institute is located on the South-West corner of the picturesque ***University of Toronto St George campus***, in the downtown heart of Canada's largest and most vibrant city. 
 
 {{< figure
-    src="/images/UofT.jpg"
+    src="images/UofT.jpg"
     alt="UofT"
     caption=""
     title="University of Toronto"
@@ -40,7 +40,7 @@ The Fields Institute is located on the South-West corner of the picturesque ***U
 Also, right next door is the ***Krembil Centre for Neuroinformatics (KCNI) at the Centre for Addiction and Mental Health (CAMH)*** College Street site. KCNI Scientists Drs. John Griffiths and Andreea Diaconescu are leading the BrainModes organizing committee, and look forward to hosting visitors at Fields, KCNI, and Toronto more generally. 
 
 {{< figure
-    src="/images/CAMHKCNI.jpg"
+    src="images/CAMHKCNI.jpg"
     alt="KCNI"
     caption=""
     title="CAMH KCNI"
@@ -80,52 +80,52 @@ See [here]() for travel and accomodation info.
 
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">John Griffiths</h3>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Andreea Diaconescu</h3>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/MinaroseIsmail.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/..." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Minarose Ismail</h3>
     <p style="margin: 0; font-size: 1rem;">Sick Kids Hospital / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Shradha Bhullar</h3>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Celeste Agard</h3>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Celeste Agard</h3>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Sorenza Bastiaens</h3>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Kevin Kadak</h3>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Jeremie Lefebvre</h3>
     <p style="margin: 0; font-size: 1rem;">University of Ottawa<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Maia Fraser</h3>
     <p style="margin: 0; font-size: 1rem;">University of Ottawa<br><span style="color: #888;"></span></p>
   </div>
