@@ -70,22 +70,22 @@ Info coming soon...
     </div>
     <div class="speaker">
       <img src="images/KarlFriston.jpg" alt="Speaker 2">
-      <div class="speaker-name">Karl Friston/div>
+      <div class="speaker-name">Karl Friston</div>
       <div class="speaker-title">University College London</div>
     </div>
     <div class="speaker">
       <img src="images/AxelHutt.jpg" alt="Speaker 3">
-      <div class="speaker-name">Axel Hutt </div>
+      <div class="speaker-name">Axel Hutt</div>
       <div class="speaker-title">Jena</div>
     </div>
     <div class="speaker">
       <img src="images/SteveCoombes.jpg" alt="Speaker 3">
-      <div class="speaker-name">Dr. Steve Coombes</div>
+      <div class="speaker-name">Stephen Coombes</div>
       <div class="speaker-title">Nottingham University</div>
     </div>
     <div class="speaker">
       <img src="images/ChrisMathys.jpg" alt="Speaker 3">
-      <div class="speaker-name">Chris Mathys/div>
+      <div class="speaker-name">Chris Mathys</div>
       <div class="speaker-title">Zurich, WHO</div>
     </div>
   </div>
