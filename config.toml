@@ -40,9 +40,9 @@ weight = 1
     [markup.goldmark.renderer]
       unsafe = true
 
-[module]
-  [[module.imports]]
-    path = "hugo-module-gallery-grid"
+#[module]
+#  [[module.imports]]
+#    path = "hugo-module-gallery-grid"
 
 #[module]
 #  [[module.imports]]
