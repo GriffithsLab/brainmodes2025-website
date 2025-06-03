@@ -76,4 +76,59 @@ The top ranking poster presentation submissions will be offered a speaker slot i
 See [here]() for travel and accomodation info.
 
 
+## Organizing Committee
+
+<div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">John Griffiths</h3>
+    <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Andreea Diaconescu</h3>
+    <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/MinaroseIsmail.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Minarose Ismail</h3>
+    <p style="margin: 0; font-size: 1rem;">Sick Kids Hospital / University of Toronto<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Shradha Bhullar</h3>
+    <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Celeste Agard</h3>
+    <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Celeste Agard</h3>
+    <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Sorenza Bastiaens</h3>
+    <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Kevin Kadak</h3>
+    <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Jeremie Lefebvre</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Ottawa<br><span style="color: #888;"></span></p>
+  </div>
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="/images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Maia Fraser</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Ottawa<br><span style="color: #888;"></span></p>
+  </div>
+  <!-- Add more speaker cards as needed -->
+</div>
 
