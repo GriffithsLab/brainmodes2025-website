@@ -34,3 +34,17 @@ disableKinds=["RSS"]
 languageName = "English"
 weight = 1
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[module]
+  [[module.imports]]
+    path = "hugo-module-gallery-grid"
+
+#[module]
+#  [[module.imports]]
+#   path = "hugo-shortcode-gallery"
+
