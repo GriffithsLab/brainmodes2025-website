@@ -32,6 +32,26 @@ draft = false
     <h3 style="margin: 1rem 0 0.5rem;">Christoph Mathys</h3>
     <p style="margin: 0; font-size: 1rem;">Aarhus University<br><span style="color: #888;"></span></p>
   </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/LyleMuller.jpeg" alt="Lyle Muller" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Lyle Muller</h3>
+    <p style="margin: 0; font-size: 1rem;">Western University<br><span style="color: #888;"></span></p>
+  </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/ShellaKeilholz.jpg" alt="Shella Keilholz" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Shella Keilholz</h3>
+    <p style="margin: 0; font-size: 1rem;">Emory University<br><span style="color: #888;"></span></p>
+  </div>
+
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/PetraRitter.jpg" alt="Petra Ritter" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Petra Ritter</h3>
+    <p style="margin: 0; font-size: 1rem;">Charite University<br><span style="color: #888;"></span></p>
+  </div>
+
+  
   <!-- Add more speaker cards as needed -->
 </div>
 
