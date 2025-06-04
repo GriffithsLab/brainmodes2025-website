@@ -13,8 +13,8 @@ Registration is heavily subsidized for trainees.
 
 ***Rates:***
 
-Student / PostDoc: $50
-Non-Student:       $250
+Student / PostDoc: $$
+Non-Student:       $$
 
 
 ## Accomodation: 
