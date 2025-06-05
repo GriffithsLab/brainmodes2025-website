@@ -16,8 +16,7 @@ See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information a
 
 
 
-<br>
-<br>
+<br><br>
 
 ## Venue
 
@@ -29,9 +28,9 @@ See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information a
     class="image main"
 >}}
 
-The ***venue*** this year is **Toronto, Canada**, at the [Fields Institute for Mathematical Sciences](https://fields.utoronto.ca). Check out their excellent short summary video {{< youtube PSwotpKljng >}}
+The venue this year is ***Toronto, Canada*** at the ***[Fields Institute for Mathematical Sciences](https://fields.utoronto.ca)***. The Fields Institute is a very special institution - be sure to check out their [past programming and support of mathematical neuroscience research + education](http://www.fields.utoronto.ca/search/node/neuroscience), and also their excellent short summary video: {{< youtube PSwotpKljng >}}, 
 
-The Fields Institute is located on the South-West corner of the picturesque ***University of Toronto St George campus***, in the downtown heart of Canada's largest and most vibrant city. 
+The Fields building is located on the South-West corner of the picturesque ***University of Toronto St George campus***, in the downtown heart of Canada's largest and most vibrant city. 
 
 {{< figure
     src="images/UofT.jpg"
@@ -41,7 +40,7 @@ The Fields Institute is located on the South-West corner of the picturesque ***U
     class="image main"
 >}}
 
-Also, right next door is the ***Krembil Centre for Neuroinformatics (KCNI) at the Centre for Addiction and Mental Health (CAMH)*** College Street site. KCNI Scientists Drs. John Griffiths and Andreea Diaconescu are leading the BrainModes organizing committee, and look forward to hosting visitors at Fields, KCNI, and Toronto more generally. 
+Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)*** at the ***Centre for Addiction and Mental Health (CAMH)*** College Street site. KCNI Scientists Drs. [John Griffiths](www.grifflab.com) and [Andreea Diaconescu](https://cognemo.com/) are leading the BrainModes Organizing Committee, and look forward to hosting visitors at Fields, KCNI, and Toronto more generally. 
 
 {{< figure
     src="images/CAMHKCNI.jpg"
