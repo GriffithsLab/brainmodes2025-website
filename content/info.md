@@ -15,6 +15,8 @@ Scientific discussions at BrainModes are varied and lively, as the conference at
 See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information about past BrainModes meetings back to 2007. Archives of another annual meeting build around similar principles - the *Brain Connectivity Workshop* - going back to 2002 can be found [**here**](https://www.brain-connectivity-workshop.org/bsw/zwei/bcw).
 
 
+<br> <br> 
+
 ## Venue
 
 {{< figure
@@ -55,13 +57,13 @@ Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)**
 
 The nominal theme this year is ***"multi-scale mathematical modelling and organizational principles in neural dynamics, cognition, and computational psychiatry"***. 
 
-Confirmed keynote speakers include ***Karl Friston***, ***Joana Cabral***, ***Axel Hutt***, ***Steve Coombes***, ***Petra Ritter**, ***Shella Keilholz***, ***Chris Mathys***, and ***Lyle Muller***. See [here](https://griffithslab.github.io/BrainModes2025/#program) for the full list of speakers and preliminary conference program. 
+Confirmed keynote speakers include ***Karl Friston***, ***Joana Cabral***, ***Axel Hutt***, ***Steve Coombes***, ***Petra Ritter***, ***Shella Keilholz***, ***Chris Mathys***, and ***Lyle Muller***. See the [**here**]({{< relroot >}}#program) for the full list of speakers and preliminary conference program. 
 
 Conference programming will include *keynote talks*, *oral sessions*, *panel discussions*, *poster sessions*, as well as a *special reception* and *social activities*. 
 
-The BrainModes planning committee are excited to be partnering with the organizers of the Fields Institute **[2025 Thematic Program in Mathematical Neuroscience]()**, which is hosting a series of meetings, visiting researchers, and facilitated collaborations in Toronto and Ottawa throughout the year. 
+The BrainModes planning committee are excited to be partnering with the organizers of the Fields Institute **[2025 Thematic Program in Mathematical Neuroscience](http://www.fields.utoronto.ca/activities/25-26/neuroscience)**, which is hosting a series of meetings, visiting researchers, and facilitated collaborations in Toronto and Ottawa throughout the year. 
 
-We are also delighted to be featuring this year's **[Fields Distinguished Lecturer Series]()** by **Prof. Friston**, as an integrated part of the BrainModes conference program. 
+We are also delighted to be featuring this year's **[Fields Distinguished Lecturer Series](http://www.fields.utoronto.ca/activities/25-26/Friston)** by **Prof. Friston**, as an integrated part of the BrainModes conference program. 
 
 
 
@@ -69,15 +71,14 @@ We are also delighted to be featuring this year's **[Fields Distinguished Lectur
 <br>
 ## Register, Visit, and Present
 
-[**Registration is open!**](). Note that numbers are limited, so be sure to register early to guarantee a place.
+[**Registration is open!**]({{< relroot >}}#register). Note that numbers are limited, so be sure to register early to guarantee a place.
 
 There are opportunities to present your work: the **poster sessions** and the **late-breaking talks**. 
 
-The top ranking poster presentation submissions will be offered a speaker slot in one of the late-breaking talk sessions. 
+The top ranking poster presentation submissions will be offered a speaker slot in one of the late-breaking talk sessions. Submit your abstract following the instructions on the registration page to secure a poster presentation slot and to be considered for the a talk. 
 
-[Submit your abstract here]() to secure a poster presentation slot and to be considered for the a talk. 
+Information on travel and recommended accomodation is also given on the registration page. 
 
-See [here]() for travel and accomodation info.
 
 
 
