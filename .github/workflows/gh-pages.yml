@@ -18,7 +18,7 @@ jobs:
         run: bash getlatesthugoext.sh
 
       - name: Build site
-        run: hugo_ext --minify
+        run: ./hugo_ext --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
