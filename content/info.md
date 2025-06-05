@@ -6,18 +6,19 @@ draft = false
 
 ## About the conference
 
-BrainModes is an annual international meeting of mathematical and computational neuroscientists, discussing their latest work on theories and principles of brain dynamics and functional organization.
+**BrainModes** is long-running annual international gathering of mathematical and computational neuroscientists, who meet to discuss their latest work on theories and principles of brain dynamics and functional organization. 
 
-The name is a nod to the broad concept of ***(eigen)modes***. It reflects a philosophical and theoretical orientation shared amongst its community of attendees and organizers: the idea that *both the brain and the mind, although complex and nonlinear, are ultimately low-dimensional dynamical objects.* And, moreover, that this property is key to understanding, measurement, and therapeutic control of neural systems. 
+The name is a nod to the broad concept of ***(eigen)modes***. It reflects a philosophical and theoretical orientation shared amongst its community of attendees and organizers: the idea that ***both the brain and the mind, although complex and nonlinear, are ultimately low-dimensional dynamical objects.*** And, moreover, that this property is key to understanding, measurement, and therapeutic control of neural systems. 
 
 Scientific discussions at BrainModes are varied and lively, as the conference attracts scientists from a wide range of neuroscience (and non-neuroscience) sub-fields, including a mix of experimentalists, data analysts, and theoreticians. All of the work discussed involves some combination of concepts from statistical physics, dynamical systems, complexity science, machine learning - which serve as guides and tools for thinking through neuroscientific ideas and research questions. 
 
-See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information about past BrainModes meetings back to 2007. Archives of another annual meeting build around similar principles - the Brain Connectivity Workshop - going back to 2002 can be found [**here**](https://www.brain-connectivity-workshop.org/bsw/zwei/bcw).
+See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information about past BrainModes meetings back to 2007. Archives of another annual meeting build around similar principles - the *Brain Connectivity Workshop* - going back to 2002 can be found [**here**](https://www.brain-connectivity-workshop.org/bsw/zwei/bcw).
 
 
 
 <br>
 <br>
+
 ## Venue
 
 {{< figure
