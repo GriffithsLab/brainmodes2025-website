@@ -56,7 +56,117 @@ draft = false
 </div>
 
 
-## Full Program
+<br> <br> 
 
-Coming soon!
+## Program
+
+*(provisional, subject to change)*
+
+
+### 🗓️ Day 1
+
+{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}
+
+{{< session time="09:00" title="🎤 Opening Remarks" tooltip="Welcome from the organizers" bg="#2c2c2c" border="#c7d4e2" >}}{{< /session >}}
+
+{{< session time="09:15" title="🎓 Session 1" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 1* - Axel Hutt  
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}
+
+{{< session time="11:15" title="🎓 Session 2" tooltip="Session 2" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 2* - Stephen Coombes  
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="13:00" title="��️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
+
+{{< session time="14:00" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 3* - Lyle Muller
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="16:00" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}{{< /session >}}
+
+{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
+- Lecture 1 - Karl Friston
+{{< /session >}}
+
+{{< session time="19:30" title="🎉 Reception 1" tooltip="Evening social and drinks" bg="#2c2c2c" border="#e8b5c6" >}}{{< /session >}}
+
+---
+
+### 🗓️ Day 2
+
+{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}
+
+{{< session time="09:00" title="🎓 Session 4" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 4* - Shella Keilholz  
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}
+
+{{< session time="11:15" title="🎓 Session 5" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 5* - Joana Cabral 
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="13:00" title="��️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
+
+{{< session time="14:00" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 3* - Petra Ritter
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+
+{{< session time="16:00" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}{{< /session >}}
+
+{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
+- Lecture 2 - Karl Friston
+{{< /session >}}
+
+
+---
+
+### 🗓️ Day 3
+
+{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}
+
+{{< session time="09:00" title="🎓 Session 7" tooltip="Session 7" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 7* - Christoph Mathys
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}
+
+{{< session time="11:15" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 8* - TBD
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="13:00" title="��️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
+
+{{< session time="14:00" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}
+- *Keynote 9* - TBD
+- *Short Talks* — Speakers TBD  
+- *Panel Discussion*
+{{< /session >}}
+
+{{< session time="16:00" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}{{< /session >}}
+
+{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
+- Lecture 3 - Karl Friston
+{{< /session >}}
+
 
