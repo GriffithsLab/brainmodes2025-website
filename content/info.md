@@ -15,6 +15,7 @@ Scientific discussions at BrainModes are varied and lively, as the conference at
 See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information about past BrainModes meetings back to 2007. Archives of another annual meeting build around similar principles - the *Brain Connectivity Workshop* - going back to 2002 can be found [**here**](https://www.brain-connectivity-workshop.org/bsw/zwei/bcw).
 
 
+
 <br> <br> 
 
 ## Venue
@@ -51,8 +52,8 @@ Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)**
 
 
 
-<br>
-<br>
+<br> <br>
+
 ## Theme and Program
 
 The nominal theme this year is ***"multi-scale mathematical modelling and organizational principles in neural dynamics, cognition, and computational psychiatry"***. 
@@ -67,8 +68,8 @@ We are also delighted to be featuring this year's **[Fields Distinguished Lectur
 
 
 
-<br>
-<br>
+<br> <br>
+
 ## Register, Visit, and Present
 
 [**Registration is open!**]({{< relroot >}}#register). Note that numbers are limited, so be sure to register early to guarantee a place.
@@ -82,8 +83,8 @@ Information on travel and recommended accomodation is also given on the registra
 
 
 
-<br>
-<br>
+<br> <br>
+
 ## Organizing Committee
 
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
