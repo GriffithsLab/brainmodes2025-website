@@ -72,7 +72,7 @@ We are also delighted to be featuring this year's **[Fields Distinguished Lectur
 
 ## Register, Visit, and Present
 
-[**Registration is open!**]({{< relroot >}}#register). Note that numbers are limited, so be sure to register early to guarantee a place.
+[**Registration is open!**](/#register). Note that numbers are limited, so be sure to register early to guarantee a place.
 
 There are opportunities to present your work: the **poster sessions** and the **late-breaking talks**. 
 
