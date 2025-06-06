@@ -80,7 +80,7 @@ There are opportunities to present your work: the **poster sessions** and the **
 
 Submit your abstract following the instructions on the registration page. The top-rated abstract submissions will be offered a speaker slot in one of the short talk sessions. 
 
-Information on travel and recommended accomodation is also given on the registration page. 
+Information on travel and recommended accommodation is also given on the registration page. 
 
 
 
