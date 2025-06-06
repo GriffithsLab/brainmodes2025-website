@@ -21,7 +21,7 @@ A reduced Early-Bird registration rate will be available until **15th July**.
 | Non-Trainee         | $150           | $250        | 
 
 
-All planning to attend, go to the [EventBrite page](https://www.eventbrite.com/e/brainmodes2025-tickets-1402713918089?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) to register. There are a limited number of places available for registrants of all categories. 
+All planning to attend, go to the [EventBrite page](https://www.eventbrite.com/e/brainmodes2025-tickets-1402713918089?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) to register. Due to space restrictions, there are a limited number of places available for registrants of all categories. 
 
 
 
