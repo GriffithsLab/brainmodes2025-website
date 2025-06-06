@@ -9,12 +9,15 @@ draft = false
 
 Follow the link on the [Fields webpage](http://www.fields.utoronto.ca/activities/25-26/BrainModes) to register. 
 
-Registration is heavily subsidized for trainees.
+*Rates:*
 
-***Rates:***
+| Category            | Early Bird Fee | Regular Fee | 
+|---------------------|----------------|-------------|
+| Trainee             | Free           | Free        | 
+| Non-Trainee         | $100           | $200        | 
 
-Student / PostDoc: $$
-Non-Student:       $$
+Non-trainees needing a registration fee waiver, please contact the organizers. 
+
 
 
 ### Accomodation: 
