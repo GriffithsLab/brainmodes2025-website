@@ -7,7 +7,7 @@ draft = false
 
 ### Conference Registration
 
-Follow the link on the [Fields webpage](http://www.fields.utoronto.ca/activities/25-26/BrainModes) to register. 
+Go to the [EventBrite page](https://www.eventbrite.com/e/brainmodes2025-tickets-1402713918089?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) for the conference.
 
 *Rates:*
 
