@@ -18,9 +18,13 @@ Follow the link on the [Fields webpage](http://www.fields.utoronto.ca/activities
 
 Non-trainees needing a registration fee waiver, please contact the organizers. 
 
+Early Bird rates apply until **15th July**. 
 
 
-### Accomodation: 
+
+<br> <br> 
+
+### Accommodation: 
 
 A variety of discounted accommodation options within walking distnace of the Fields Institute can be found on [this page](https://www.fields.utoronto.ca/resources/housing-resources).
 
