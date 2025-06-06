@@ -92,7 +92,7 @@ Information on travel and recommended accomodation is also given on the registra
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <h3 style="margin: 1rem 0 0.5rem;">John Griffiths</h3>
+    <h5 style="margin: 1rem 0 0.5rem;">John Griffiths</h5>
     <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
