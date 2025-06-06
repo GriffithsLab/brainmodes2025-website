@@ -21,6 +21,12 @@ Non-trainees needing a registration fee waiver, please contact the organizers.
 Early Bird rates apply until **15th July**. 
 
 
+<br> <bc> 
+
+## Submissions
+
+[Abstract submission page](https://docs.google.com/forms/d/e/1FAIpQLSfaOqbqgY4PzlvvRCxHqPmgUZ6fG-fy7EKk1coeSjQRcxsOjg/viewform?usp=header).
+
 
 <br> <br> 
 
