@@ -54,7 +54,7 @@ Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)**
 
 <br> <br>
 
-## Theme and Program
+### Theme and Program
 
 The nominal theme this year is ***"multi-scale mathematical modelling and organizational principles in neural dynamics, cognition, and computational psychiatry"***. 
 
@@ -70,7 +70,7 @@ We are also delighted to be featuring this year's **[Fields Distinguished Lectur
 
 <br> <br>
 
-## Register, Visit, and Present
+### Register, Visit, and Present
 
 [**Registration is open!**](/#register). Note that numbers are limited, so be sure to register early to guarantee a place. 
 
@@ -87,7 +87,7 @@ Information on travel and recommended accomodation is also given on the registra
 
 <br> <br>
 
-## Organizing Committee
+### Organizing Committee
 
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div class="speaker-card" style="width: 200px; text-align: center;">
