@@ -26,5 +26,5 @@ Early Bird rates apply until **15th July**.
 
 ### Accommodation: 
 
-A variety of discounted accommodation options within walking distnace of the Fields Institute can be found on [this page](https://www.fields.utoronto.ca/resources/housing-resources).
+A variety of discounted accommodation options within walking distance of the Fields Institute can be found on [this page](https://www.fields.utoronto.ca/resources/housing-resources).
 
