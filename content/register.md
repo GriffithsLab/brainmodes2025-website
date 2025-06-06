@@ -4,21 +4,24 @@ weight = 20
 draft = false
 +++
 
-
 ### Conference Registration
 
-Go to the [EventBrite page](https://www.eventbrite.com/e/brainmodes2025-tickets-1402713918089?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) to register for the conference.
+The BrainModes organizers and the Fields Institute are committed to facilitating access and minizing barriers to scientific education, training, exposure to cutting-edge research, and academic career development. 
 
-*Rates:*
+We have elected to follow a progressive two-tier registration rate approach, guided by the principle that those who can contribute financially to event operations are enabled to, but anyone who cannot need not. 
+
+Registration will therefore be free for all trainees (including post-docs). In addition, any non-trainees who feel they will need a registration fee waiver in order to be able to attend, please contact the organizers to discuss.
+
+A reduced Early-Bird registration rate will be available until **15th July**. 
+
 
 | Category            | Early Bird Fee | Regular Fee | 
 |---------------------|----------------|-------------|
 | Trainee             | Free           | Free        | 
 | Non-Trainee         | $150           | $250        | 
 
-***Non-trainees needing a registration fee waiver, please contact the organizers.***
 
-Early Bird rates apply until **15th July**. 
+All planning to attend, go to the [EventBrite page](https://www.eventbrite.com/e/brainmodes2025-tickets-1402713918089?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) to register. There are a limited number of places available for registrants of all categories. 
 
 
 
