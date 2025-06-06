@@ -34,5 +34,4 @@ To present your work at the conference, go to the [abstract submission page](htt
 
 ### Accommodation: 
 
-A variety of discounted accommodation options within walking distance of the Fields Institute can be found on [this page](https://www.fields.utoronto.ca/resources/housing-resources).
-
+See [here](https://www.fields.utoronto.ca/resources/housing-resources) for a variety of discounted accommodation options within walking distance of the Fields Institute.
