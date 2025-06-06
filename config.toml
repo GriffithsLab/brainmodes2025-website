@@ -1,4 +1,4 @@
-baseurl = "https://griffithslab.github.io/BrainModes2025"
+baseurl = "https://griffithslab.github.io/brainmodes2025-website"
 title = "BrainModes 2025"
 theme = "dimension"
 languageCode = "en-us"
