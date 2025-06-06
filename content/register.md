@@ -22,7 +22,5 @@ Non-trainees needing a registration fee waiver, please contact the organizers.
 
 ### Accomodation: 
 
-Discounted room rates at the Chelsea Hotel are available for conference attendees.
-
-To access these, follow the booking instructions [here](). 
+A variety of discounted accommodation options within walking distnace of the Fields Institute can be found on [this page](https://www.fields.utoronto.ca/resources/housing-resources).
 
