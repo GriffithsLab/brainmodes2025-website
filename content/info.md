@@ -98,47 +98,47 @@ Information on travel and recommended accomodation is also given on the registra
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Andreea Diaconescu</h5>
-    <p style="margin: 0; font-size: 0.5rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/..." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Minarose Ismail</h5>
-    <p style="margin: 0; font-size: 1rem;">Sick Kids Hospital / University of Toronto<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">Sick Kids Hospital / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Shradha Bhullar</h5>
-    <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Celeste Agard</h5>
-    <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Celeste Agard</h5>
-    <p style="margin: 0; font-size: 1rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Sorenza Bastiaens</h5>
-    <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Kevin Kadak</h5>
-    <p style="margin: 0; font-size: 1rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Jeremie Lefebvre</h5>
-    <p style="margin: 0; font-size: 1rem;">University of Ottawa<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">University of Ottawa<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/.." alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Maia Fraser</h5>
-    <p style="margin: 0; font-size: 1rem;">University of Ottawa<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 0.75rem;">University of Ottawa<br><span style="color: #888;"></span></p>
   </div>
   <!-- Add more speaker cards as needed -->
 </div>
