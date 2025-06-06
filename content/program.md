@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-## Keynote Speakers
+### Keynote Speakers
 
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div class="speaker-card" style="width: 200px; text-align: center;">
@@ -58,12 +58,12 @@ draft = false
 
 <br> <br> 
 
-## Program
+### Program
 
 *(provisional, subject to change)*
 
 
-### 🗓️ Day 1
+#### 🗓️ Day 1
 
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}
 
@@ -101,7 +101,7 @@ draft = false
 
 ---
 
-### 🗓️ Day 2
+#### 🗓️ Day 2
 
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}
 
@@ -137,7 +137,7 @@ draft = false
 
 ---
 
-### 🗓️ Day 3
+#### 🗓️ Day 3
 
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}{{< /session >}}
 
