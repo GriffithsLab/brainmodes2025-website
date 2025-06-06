@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-## Conference Registration
+### Conference Registration
 
 Follow the link on the [Fields webpage](http://www.fields.utoronto.ca/activities/25-26/BrainModes) to register. 
 
@@ -17,7 +17,7 @@ Student / PostDoc: $$
 Non-Student:       $$
 
 
-## Accomodation: 
+### Accomodation: 
 
 Discounted room rates at the Chelsea Hotel are available for conference attendees.
 
