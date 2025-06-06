@@ -83,7 +83,7 @@ draft = false
 - *Panel Discussion*
 {{< /session >}}
 
-{{< session time="13:00" title="��️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
+{{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
 
 {{< session time="14:00" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}
 - *Keynote 3* - Lyle Muller
@@ -119,7 +119,7 @@ draft = false
 - *Panel Discussion*
 {{< /session >}}
 
-{{< session time="13:00" title="��️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
+{{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
 
 {{< session time="14:00" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}
 - *Keynote 3* - Petra Ritter
@@ -155,7 +155,7 @@ draft = false
 - *Panel Discussion*
 {{< /session >}}
 
-{{< session time="13:00" title="��️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
+{{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
 
 {{< session time="14:00" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}
 - *Keynote 9* - TBD
