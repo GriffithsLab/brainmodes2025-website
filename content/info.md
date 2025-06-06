@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-## About the conference
+### About the conference
 
 **BrainModes** is long-running annual international gathering of mathematical and computational neuroscientists, who meet to discuss their latest work on theories and principles of brain dynamics and functional organization. 
 
@@ -18,7 +18,7 @@ See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information a
 
 <br> <br> 
 
-## Venue
+### Venue
 
 {{< figure
     src="images/FieldsInstitute.jpg"
