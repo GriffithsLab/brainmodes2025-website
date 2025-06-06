@@ -32,14 +32,13 @@ All planning to attend, go to the [EventBrite page](https://www.eventbrite.com/e
 To present your work at the conference, go to the [abstract submission page](https://docs.google.com/forms/d/e/1FAIpQLSfaOqbqgY4PzlvvRCxHqPmgUZ6fG-fy7EKk1coeSjQRcxsOjg/viewform?usp=header). All submitted poster abstracts will be considered for one of the limited short talk slots. 
 
 
-***Abstract guidelines:***
-
-- *Title:* 100 characters max Please refrain from using all caps.  
-- *Authors and Affiliations:* maximum of 20.  
-- *Main text:" Includes separated sections for Introduction, Methods, Results, Conclusions. 400 characters max.  
-- *Figures:* Up to 2 figure images may be uploaded. Figure images should include adequately descriptive text captions as part of the image. 
-- *References:* Up to 10 references can be added, and are separate to the main text character limit.  
-- *Keywords:* Choose up to 5 keywords that best describe your research. Note that selection of the subject category determines the expertise of the reviewers who score the abstract.  
+**Abstract guidelines:**  
+- ***Title:*** 100 characters max Please refrain from using all caps.  
+- ***Authors and Affiliations:*** maximum of 20.  
+- ***Main text:*** Includes separated sections for Introduction, Methods, Results, Conclusions. 400 characters max.  
+- ***Figures:*** Up to 2 figure images may be uploaded. Figure images should include adequately descriptive text captions as part of the image. 
+- ***References:*** Up to 10 references can be added, and are separate to the main text character limit.  
+- ***Keywords:*** Choose up to 5 keywords that best describe your research. Note that selection of the subject category determines the expertise of the reviewers who score the abstract.  
 
 
  
