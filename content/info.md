@@ -16,7 +16,7 @@ See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information a
 
 
 
-<br> <br> 
+<br> 
 
 ### Venue
 
@@ -52,7 +52,7 @@ Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)**
 
 
 
-<br> <br>
+<br> 
 
 ### Theme and Program
 
@@ -68,7 +68,7 @@ We are also delighted to be featuring this year's **[Fields Distinguished Lectur
 
 
 
-<br> <br>
+<br>
 
 ### Register, Visit, and Present
 
@@ -85,7 +85,7 @@ Information on travel and recommended accommodation is also given on the registr
 
 
 
-<br> <br>
+<br> 
 
 ### Organizing Committee
 
