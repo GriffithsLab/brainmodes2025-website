@@ -31,7 +31,7 @@ Note that due to space restrictions, there are a limited number of places availa
 
 ## Poster/Talk Abstract Submissions
 
-To present your work at the conference, go to the [abstract submission page](https://docs.google.com/forms/d/e/1FAIpQLSfaOqbqgY4PzlvvRCxHqPmgUZ6fG-fy7EKk1coeSjQRcxsOjg/viewform?usp=header). All submitted poster abstracts will be considered for one of the limited short talk slots. 
+To present your work at the conference, go to the ***[abstract submission page](https://docs.google.com/forms/d/e/1FAIpQLSfaOqbqgY4PzlvvRCxHqPmgUZ6fG-fy7EKk1coeSjQRcxsOjg/viewform?usp=header)***. All submitted poster abstracts will be considered for one of the limited short talk slots. 
 
 
 **Abstract guidelines:**  
