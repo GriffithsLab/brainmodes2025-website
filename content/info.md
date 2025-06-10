@@ -91,47 +91,47 @@ Information on travel and recommended accommodation is also given on the registr
 
 <div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/JohnGriffiths.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/JohnGriffiths.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">John Griffiths</h5>
     <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/AndreeaDiaconescu.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/AndreeaDiaconescu.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Andreea Diaconescu</h5>
     <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/MinaroseIsmail.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/MinaroseIsmail.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Minarose Ismail</h5>
     <p style="margin: 0; font-size: 0.75rem;">Sick Kids Hospital / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/ShradhaBhullar.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/ShradhaBhullar.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Shradha Bhullar</h5>
     <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/CelesteAgard.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/CelesteAgard.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Celeste Agard</h5>
     <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/SorenzaBastiaens.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/SorenzaBastiaens.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Sorenza Bastiaens</h5>
     <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/KevinKadak.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/KevinKadak.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Kevin Kadak</h5>
     <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/JeremieLefebvre.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/JeremieLefebvre.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Jeremie Lefebvre</h5>
     <p style="margin: 0; font-size: 0.75rem;">University of Ottawa<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/MaiaFraser.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/MaiaFraser.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Maia Fraser</h5>
     <p style="margin: 0; font-size: 0.75rem;">University of Ottawa<br><span style="color: #888;"></span></p>
   </div>
