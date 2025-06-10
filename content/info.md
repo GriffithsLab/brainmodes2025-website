@@ -101,7 +101,7 @@ Information on travel and recommended accommodation is also given on the registr
     <p style="margin: 0; font-size: 0.75rem;">CAMH KCNI / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
   <div class="speaker-card" style="width: 200px; text-align: center;">
-    <img src="images/MinaroseIsmail" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <img src="images/MinaroseIsmail.jpg" alt="" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h5 style="margin: 1rem 0 0.5rem;">Minarose Ismail</h5>
     <p style="margin: 0; font-size: 0.75rem;">Sick Kids Hospital / University of Toronto<br><span style="color: #888;"></span></p>
   </div>
