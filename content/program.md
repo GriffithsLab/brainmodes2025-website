@@ -50,8 +50,18 @@ draft = false
     <h3 style="margin: 1rem 0 0.5rem;">Petra Ritter</h3>
     <p style="margin: 0; font-size: 1rem;">Charite University<br><span style="color: #888;"></span></p>
   </div>
-
-  
+<div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/AndreeaDiaconescu.jpg" alt="Joana Cabral" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Andreea Diaconescu</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Toronto<br><span style="color: #888;"></span></p>
+  </div>
+<div class="speakers-grid" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+  <div class="speaker-card" style="width: 200px; text-align: center;">
+    <img src="images/JeremieLefebvre.jpg" alt="Jérémie Lefebvre" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <h3 style="margin: 1rem 0 0.5rem;">Jeremie Lefebvre</h3>
+    <p style="margin: 0; font-size: 1rem;">University of Ottawa<br><span style="color: #888;"></span></p>
+  </div>
   <!-- Add more speaker cards as needed -->
 </div>
 
@@ -150,7 +160,7 @@ draft = false
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}{{< /session >}}
 
 {{< session time="11:15" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 8* - TBD
+- *Keynote 8* - Andreea Diaconescu
 - *Short Talks* — Speakers TBD  
 - *Panel Discussion*
 {{< /session >}}
@@ -158,7 +168,7 @@ draft = false
 {{< session time="13:00" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}{{< /session >}}
 
 {{< session time="14:00" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 9* - TBD
+- *Keynote 9* - Jérémie Lefebvre
 - *Short Talks* — Speakers TBD  
 - *Panel Discussion*
 {{< /session >}}
