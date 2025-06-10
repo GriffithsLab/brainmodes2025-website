@@ -6,9 +6,9 @@ draft = false
 
 ### About the conference
 
-**BrainModes** is long-running annual international gathering of mathematical and computational neuroscientists, who meet to discuss their latest work on theories and principles of brain dynamics and functional organization. 
+**BrainModes** is a long-running annual international gathering of mathematical and computational neuroscientists, meeting to discuss their latest work on theories and principles of brain dynamics and functional organization. 
 
-The name is a nod to the broad concept of ***(eigen)modes***. It reflects a philosophical and theoretical orientation shared amongst its community of attendees and organizers: the idea that ***both the brain and the mind, although complex and nonlinear, are ultimately low-dimensional dynamical objects.*** And, moreover, that this property is key to understanding, measurement, and therapeutic control of neural systems. 
+The name is a nod to the broad concept of ***(eigen)modes***. It reflects a philosophical and theoretical orientation shared by its community of attendees and organizers: the idea that ***both the brain and the mind, although complex and nonlinear, are ultimately low-dimensional dynamical objects.*** And, moreover, that this property is key to understanding, measurement, and therapeutic control of neural systems. 
 
 Scientific discussions at BrainModes are varied and lively, as the conference attracts scientists from a wide range of neuroscience (and non-neuroscience) sub-fields, including a mix of experimentalists, data analysts, and theoreticians. All of the work discussed involves some combination of concepts from statistical physics, dynamical systems, complexity science, machine learning - which serve as guides and tools for thinking through neuroscientific ideas and research questions. 
 
@@ -28,7 +28,7 @@ See [**here**](https://www.brainmodes.org/bsw/zwei/brainmodes) for information a
     class="image main"
 >}}
 
-The venue this year is ***Toronto, Canada*** at the ***[Fields Institute for Mathematical Sciences](https://fields.utoronto.ca)***. The Fields Institute is a very special institution - be sure to check out their [past programming and support of mathematical neuroscience research + education](http://www.fields.utoronto.ca/search/node/neuroscience), and also their excellent short summary video: {{< youtube PSwotpKljng >}}, 
+The venue this year is ***Toronto, Canada*** at the ***[Fields Institute for Mathematical Sciences](https://fields.utoronto.ca)***. The Fields Institute is a very special institution, which has been supporting advanced research and education in mathematical sciences domains across Canada since its founding in the early 1990s.  Be sure to check out their [past programming and support of mathematical/computational neuroscience research + education](http://www.fields.utoronto.ca/search/node/neuroscience), and also their excellent short summary video: {{< youtube PSwotpKljng >}}
 
 The Fields building is located on the South-West corner of the picturesque ***University of Toronto St George campus***, in the downtown heart of Canada's largest and most vibrant city. 
 
@@ -58,7 +58,7 @@ Right next door to Fields is the ***Krembil Centre for Neuroinformatics (KCNI)**
 
 The nominal theme this year is ***"multi-scale mathematical modelling and organizational principles in neural dynamics, cognition, and computational psychiatry"***. 
 
-Confirmed keynote speakers include ***Karl Friston***, ***Joana Cabral***, ***Axel Hutt***, ***Steve Coombes***, ***Petra Ritter***, ***Shella Keilholz***, ***Chris Mathys***, and ***Lyle Muller***. See the [**here**]({{< relroot >}}#program) for the full list of speakers and preliminary conference program. 
+Confirmed keynote speakers include ***Karl Friston***, ***Joana Cabral***, ***Axel Hutt***, ***Steve Coombes***, ***Petra Ritter***, ***Shella Keilholz***, ***Chris Mathys***, ***Andreea Diaconescu***, ***Jérémie Lefebvre***, and ***Lyle Muller***. See [**here**]#program for the full list of speakers and preliminary conference program. 
 
 Conference programming will include *keynote talks*, *oral sessions*, *panel discussions*, *poster sessions*, as well as a *special reception* and *social activities*. 
 
