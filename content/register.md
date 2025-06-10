@@ -10,9 +10,9 @@ draft = false
 
 The BrainModes organizers and the Fields Institute are committed to facilitating access and minizing barriers to scientific education, training, exposure to cutting-edge research, and academic career development. 
 
-We have elected to follow a progressive two-tier registration rate approach, guided by the principle that those who can contribute financially to event operations are enabled to, but anyone who cannot need not. 
+We have elected to follow a progressive two-tier registration rate approach, guided by the principle that those who can contribute financially to event operations are enabled to do so, but anyone who cannot is still fully able to participate. 
 
-Registration will therefore be free for all trainees (including post-docs). In addition, any non-trainees who feel they will need a registration fee waiver in order to be able to attend, please contact the organizers to discuss.
+Registration will therefore be free for all trainees (including post-docs). In addition, any non-trainees who feel they will need a registration fee waiver in order to be able to attend, please contact the organizers to discuss options.
 
 A reduced Early-Bird registration rate will be available until **15th July**. 
 
@@ -23,7 +23,7 @@ A reduced Early-Bird registration rate will be available until **15th July**.
 | Non-Trainee         | $150           | $250        | 
 
 
-Note that due to space restrictions, there are a limited number of places available for registrants of all categories. All planning to attend, go to the EventBrite registraiton page linked to above.
+Note that due to space restrictions, there are a limited number of places available for registrants of all categories. All planning to attend, go to the EventBrite registration page linked to above.
 
 
 
