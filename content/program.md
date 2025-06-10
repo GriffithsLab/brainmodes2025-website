@@ -104,7 +104,7 @@ draft = false
 {{< session time="16:00" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}{{< /session >}}
 
 {{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
-- Lecture 1 - Karl Friston
+- *FDLS Lecture 1/3: "I am therefore I think"* - Karl Friston  
 {{< /session >}}
 
 {{< session time="19:30" title="🎉 Reception 1" tooltip="Evening social and drinks" bg="#2c2c2c" border="#e8b5c6" >}}{{< /session >}}
@@ -141,7 +141,7 @@ draft = false
 {{< session time="16:00" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}{{< /session >}}
 
 {{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
-- Lecture 2 - Karl Friston
+- *FDLS Lecture 2/3: "Active inference and belief propagation in the brain"* - Karl Friston  
 {{< /session >}}
 
 
@@ -176,7 +176,6 @@ draft = false
 {{< session time="16:00" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}{{< /session >}}
 
 {{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
-- Lecture 3 - Karl Friston
+- *FDLS Lecture 3/3: "Active inference and artificial curiosity"* - Karl Friston  
 {{< /session >}}
-
 
