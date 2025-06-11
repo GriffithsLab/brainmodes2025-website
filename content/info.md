@@ -138,3 +138,26 @@ Information on travel and recommended accommodation is also given on the registr
   <!-- Add more speaker cards as needed -->
 </div>
 
+
+
+<br>
+
+## Partner Institutions and Sponsors
+
+<br>
+
+<img src="/images/FieldsInstituteLogo.png" alt="Fields Logo" style="border-radius: 12px; width: 325px; display: block; margin-right: auto; margin-left: auto">
+
+<br>
+
+<img src="/images/UTorontoLogo.jpg" alt="UToronto Logo" style="border-radius: 12px; width: 325px; display: block; margin-left: auto; margin-right: auto">
+
+<br>
+
+<img src="/images/brain_CAMH_Horz_logo.png" alt="CAMH Logo" style="border-radius: 12px; width: 325px; display: block; margin-left: auto; margin-right: auto">
+
+<br>
+
+<img src="/images/SickKidsLogo.jpg" alt="Sick Kids Logo" style="border-radius: 12px; width: 325px; display: block; margin-left: auto; margin-right: auto">
+
+
