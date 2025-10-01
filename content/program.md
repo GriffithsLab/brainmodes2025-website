@@ -214,10 +214,11 @@ draft = false
 {{< session time="13:45" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}
 - *Keynote 9*: ***Jérémie Lefebvre***
 - *Short Talks*: ***Jacob Duda***
+- *Panel*: ***Andreaa Diaconescu, John Griffiths***
 - 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
-{{< session time="16:00" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}
+{{< session time="16:15" title="👋 Closing Remarks" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}
 - 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
