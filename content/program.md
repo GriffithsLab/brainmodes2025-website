@@ -80,155 +80,176 @@ draft = false
 
 *(provisional, subject to change)*
 
+📍 *Locations*:
+- All daytime keynotes, short talks, posters, and lunches are at the Fields Institute for Mathematical Sciences, 222 College St Toronto ON M5T 3J1  
+- The first two evening (FDLS) lectures and receptions will be at the SickKids Peter Gilgan Centre for Research and Learning: 686 Bay St., Toronto, ON M5G 0A4  
+- The third FDLC lecture will be at the Bahen Centre for Information Technology: 40 St George St, Toronto, ON M5S 2E4  
+
 
 #### 🗓️ Day 1 *(Weds 8th October)*
+Theme: ***Principles of Brain Dynamics: Generative & Dynamical System Models***  
 
-{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+{{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}  
 {{< /session >}}
 
-
-{{< session time="09:00" title="🎤 Opening Remarks" tooltip="Welcome from the organizers" bg="#2c2c2c" border="#c7d4e2" >}}
-- ***John Griffiths***
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+{{< session time="09:00" title="🎤 Opening Remarks" tooltip="Welcome from the organizers" bg="#2c2c2c" border="#c7d4e2" >}}  
 {{< /session >}}
 
 {{< session time="09:15" title="🎓 Session 1" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 1*: ***Axel Hutt***  
-- *Short Talks*: ***Dimitris Pinotsis, Frank Wandler***
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+<u>Keynote 1:</u>  
+***Axel Hutt***: TBD  
+
+<u>Short Talks:</u>  
+***Dimitris Pinotsis***: TBD   
+***Frank Wandler***: TBD  
 {{< /session >}}
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
-{{< /session >}}
+{{< /session >}}  
 
 {{< session time="11:15" title="🎓 Session 2" tooltip="Session 2" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 2*: ***Stephen Coombes***  
-- *Short Talks*
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+
+<u>Keynote 2:</u>    
+***Stephen Coombes***: "Large-scale brain modelling: from nodes to white matter networks"   
+
+<u>Short Talks:</u>  
+***TBD***  
+
 {{< /session >}}
 
+
 {{< session time="12:15" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
 {{< session time="13:15" title="🎓 Session 3" tooltip="Session 3" bg="#2c2c2c" border="#a8d5ba" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
-- *Keynote 3*: ***Lyle Muller***  
-- *Short Talks*: ***Seb Coleman, Xiaoxuan Xiao***
-- *Panel Discussion*: ***John Griffiths***
+
+<u>Keynote:</u>   
+***Lyle Muller***: TBD    
+
+<u>Short Talks:</u>   
+***Seb Coleman***: TBD     
+***Xiou Xang***: TBD    
 {{< /session >}}
 
 {{< session time="15:45" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+{{< /session >}}  
+
+{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series (1/3)" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}  
+***Karl Friston***: *"I am therefore I think"*
 {{< /session >}}
 
-{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
-- *FDLS Lecture 1/3: "I am therefore I think"* - ***Karl Friston***
-- 📍 SickKids Peter Gilgan Centre for Research and Learning: 686 Bay St., Toronto, ON M5G 0A4
-{{< /session >}}
-
-{{< session time="19:30" title="🎉 Reception" tooltip="Evening social and drinks" bg="#2c2c2c" border="#e8b5c6" >}}
-- 📍 SickKids Peter Gilgan Centre for Research and Learning: 686 Bay St., Toronto, ON M5G 0A4
+{{< session time="19:30" title="🎉 BrainModes Conference Reception" tooltip="Evening social and drinks" bg="#2c2c2c" border="#e8b5c6" >}}
 {{< /session >}}
 
 ---
 
 #### 🗓️ Day 2 *(Thurs 9th October)*
+Theme: ***Imaging the Dynamic Brain: Time‑Resolved & Multimodal Inference***
 
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
 {{< session time="09:00" title="🎓 Session 4" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 4*: ***Petra Ritter*** 
-- *Short Talks*: ***Leon Stefanovski, Minarose Ismail***
 
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+
+<u>Keynote:</u>   
+***Petra Ritter***: TBD    
+
+<u>Short Talks:</u>   
+***Leon Stefanovski***: TBD     
+***Minarose Ismail***: TBD    
 {{< /session >}}
 
 {{< session time="10:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
 {{< session time="11:00" title="🎓 Session 5" tooltip="Session 5" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 5*: ***Shella Keilholz***
-- *Short Talks*: ***Tiago Duarte-Pereira, Amrit Kashyap***
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+
+<u>Keynote:</u>  
+***Shella Keilholz***: "Connecting spatiotemporal patterns of brain activity across scales"   
+
+<u>Short Talks:</u>   
+***Tiago Duarte-Pereira***: TBD   
+***Amrit Kashyap***: TBD
 {{< /session >}}
 
 {{< session time="12:45" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
 {{< session time="13:45" title="🎓 Session 6" tooltip="Session 6" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 6*: ***Joana Cabral***  
-- *Short Talks*: ***Giuseppe de Alteriis, Rodrigo Rojas Leyton***
-- *Panel Discussion*: ***Andreea Diaconescu***
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+
+<u>Keynote:</u>  
+***Joana Cabral***: TBD  
+ 
+<u>Short Talks:</u>   
+***Giuseppe de Alteriis***: TBD  
+***Rodrigo Rojas Leyton***: TBD        
 {{< /session >}}
 
 {{< session time="16:15" title="🎓 Posters" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
-{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
-- *FDLS Lecture 2/3: "Active inference and belief propagation in the brain"*: ***Karl Friston***
-- 📍 SickKids Peter Gilgan Centre for Research and Learning: 686 Bay St., Toronto, ON M5G 0A4
+{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series (2/3)" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}  
+***Karl Friston***: *"Active inference and belief propagation in the brain"*
 {{< /session >}}
 
-{{< session time="18:45" title="🎉 Reception" tooltip="Evening social, food, and drinks" bg="#2c2c2c" border="#e8b5c6" >}}
-- 📍 SickKids Peter Gilgan Centre for Research and Learning: 686 Bay St., Toronto, ON M5G 0A4
+{{< session time="18:45" title="🎉 Speakers+ Reception and Trainee Social" tooltip="Evening social, food, and drinks" bg="#2c2c2c" border="#e8b5c6" >}}
 {{< /session >}}
 
 
 ---
 
 #### 🗓️ Day 3 *(Fri 10th October)*
+Theme: ***From Models to Medicine: Biomarkers, Neuromodulation & Computational Psychiatry***
 
 {{< session time="08:30" title="☕ Morning Coffee" tooltip="Grab a cup and meet fellow attendees" bg="#2c2c2c" border="#9ecae1" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
 {{< session time="09:00" title="🎓 Session 7" tooltip="Session 7" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 7*: ***Christoph Mathys***  
-- *Short Talks*: ***Szymon Tyras, Rodrigo De Carvalho***
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+
+<u>Keynote:</u>  
+***Christoph Mathys***: TBD
+
+<u>Short Talks:</u>   
+***Szymon Tyras***: TBD
+***Rodrigo De Carvalho***: TBD      
+
 {{< /session >}}
 
 {{< session time="10:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
 {{< session time="11:00" title="🎓 Session 8" tooltip="Session 8" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 8*: ***Andreea Diaconescu***  
-- *Short Talks*: ***Larissa Albatankis, Peter Bedford***
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+
+<u>Keynote:</u>  
+***Andreea Diaconescu***: TBD  
+
+<u>Short Talks:</u>   
+***Larissa Albatankis***: TBD  
+***Peter Bedford***: TBD       
+
 {{< /session >}}
 
 {{< session time="12:45" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
 {{< session time="13:45" title="🎓 Session 9" tooltip="Session 9" bg="#2c2c2c" border="#a8d5ba" >}}
-- *Keynote 9*: ***Jérémie Lefebvre***
-- *Short Talks*: ***Jacob Duda***
-- *Panel*: ***Andreaa Diaconescu, John Griffiths***
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+
+<u>Keynote:</u>  
+***Jérémie Lefebvre***: TBD   
+
+<u>Short Talks:</u>    
+***Jacob Duda***: TBD  
+
 {{< /session >}}
 
 {{< session time="16:15" title="👋 Closing Remarks" tooltip="Posters" bg="#2c2c2c" border="#a8d5ba" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
 {{< /session >}}
 
-{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}
-- *FDLS Lecture 3/3: "Active inference and artificial curiosity"*: ***Karl Friston***
-- 📍 Bahen Centre for Information Technology: 40 St George St, Toronto, ON M5S 2E4
-{{< /session >}}
-
-{{< session time="19:00" title="🎉 Social" tooltip="Evening social, food, and drinks" bg="#2c2c2c" border="#e8b5c6" >}}
-- 📍 The Fields Institute: 222 College St, Toronto, ON M5T 3J1
+{{< session time="17:30" title="🎓 Fields Distinguished Lecture Series (3/3)" tooltip="FDLS" bg="#2c2c2c" border="#c7bce2" >}}  
+***Karl Friston***: *"Active inference and artificial curiosity"*
+{{< /session >}} 
+{{< session time="19:00" title="🎉 Fields DLS Reception" tooltip="Evening reception hosted at Fields" bg="#2c2c2c" border="#e8b5c6" >}}
 {{< /session >}}
 
 
