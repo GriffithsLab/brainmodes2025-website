@@ -156,8 +156,8 @@ Theme: ***Imaging the Dynamic Brain: Time‑Resolved & Multimodal Inference***
 ***Petra Ritter***: TBD    
 
 <u>Short Talks:</u>   
-***Leon Stefanovski***: TBD     
-***Minarose Ismail***: TBD    
+***Leon Stefanovski***: "Bridging scales with brain simulation – from molecules to disease mechanisms"  
+***Minarose Ismail***: "Developmental disinhibition drives language dominance in childhood"  
 {{< /session >}}
 
 {{< session time="10:45" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}
