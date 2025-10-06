@@ -97,11 +97,11 @@ Theme: ***Principles of Brain Dynamics: Generative & Dynamical System Models***
 
 {{< session time="09:15" title="🎓 Session 1" tooltip="Session 1" bg="#2c2c2c" border="#a8d5ba" >}}
 <u>Keynote 1:</u>  
-***Axel Hutt***: TBD  
+***Axel Hutt***: "Additive Noise-Induced System Evolution (ANISE)"  
 
 <u>Short Talks:</u>  
-***Dimitris Pinotsis***: TBD   
-***Frank Wandler***: TBD  
+***Dimitris Pinotsis***: "Ephaptic coupling drives power fluctuations in depression"  
+***F. David Wandler***: "Metastable cluster dynamics in recurrent spiking networks explain the high variability of cortical activity"    
 {{< /session >}}
 
 {{< session time="11:00" title="☕ Break" tooltip="Refreshments and networking" bg="#2c2c2c" border="#e0c9a6" >}}
@@ -170,7 +170,7 @@ Theme: ***Imaging the Dynamic Brain: Time‑Resolved & Multimodal Inference***
 
 <u>Short Talks:</u>   
 ***Tiago Duarte-Pereira***: TBD   
-***Amrit Kashyap***: TBD
+***Amrit Kashyap***: "Using an ordinary differential equation model to separate rest and task signals in fMRI" 
 {{< /session >}}
 
 {{< session time="12:45" title="🍽️ Lunch" tooltip="Buffet lunch in the main hall" bg="#2c2c2c" border="#e2d1c3" >}}
@@ -182,7 +182,7 @@ Theme: ***Imaging the Dynamic Brain: Time‑Resolved & Multimodal Inference***
 ***Joana Cabral***: TBD  
  
 <u>Short Talks:</u>   
-***Giuseppe de Alteriis***: TBD  
+***Giuseppe de Alteriis***: "Exploring brain dynamics with DySCo"    
 ***Rodrigo Rojas Leyton***: TBD        
 {{< /session >}}
 
@@ -208,10 +208,10 @@ Theme: ***From Models to Medicine: Biomarkers, Neuromodulation & Computational P
 {{< session time="09:00" title="🎓 Session 7" tooltip="Session 7" bg="#2c2c2c" border="#a8d5ba" >}}
 
 <u>Keynote:</u>  
-***Christoph Mathys***: TBD
+***Christoph Mathys***: "Change of Mind - Computational Approaches to (Mal)adaptive Changes in Beliefs"  
 
 <u>Short Talks:</u>   
-***Szymon Tyras***: TBD
+***Szymon Tyras***: "Hallucinations in schizophrenia are linked to elevated excitation in the dynamic mean field model"   
 ***Rodrigo De Carvalho***: TBD      
 
 {{< /session >}}
@@ -225,7 +225,7 @@ Theme: ***From Models to Medicine: Biomarkers, Neuromodulation & Computational P
 ***Andreea Diaconescu***: TBD  
 
 <u>Short Talks:</u>   
-***Larissa Albatankis***: TBD  
+***Larissa Albatankis***: "Distance- and hierarchy-dependent functional dysconnectivity in schizophrenia"    
 ***Peter Bedford***: TBD       
 
 {{< /session >}}
@@ -239,7 +239,7 @@ Theme: ***From Models to Medicine: Biomarkers, Neuromodulation & Computational P
 ***Jérémie Lefebvre***: TBD   
 
 <u>Short Talks:</u>    
-***Jacob Duda***: TBD  
+***Jacob Duda***: "A model of rhythm production and rhythmic auditory stimulation in healthy and Parkinsonian basal ganglia"  
 
 {{< /session >}}
 
